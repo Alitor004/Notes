@@ -877,6 +877,12 @@
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
+      <PackagePath>icon_about.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png">
+      <PackagePath>icon_notes.scale-100.png</PackagePath>
+    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\etechas\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix">

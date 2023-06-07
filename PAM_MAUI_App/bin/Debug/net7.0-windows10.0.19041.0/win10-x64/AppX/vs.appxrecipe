@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-01T00:31:38.255</Modified>
+      <Modified>2023-06-07T22:18:07.187</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-01T00:31:37.922</Modified>
+      <Modified>2023-06-07T22:18:06.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.runtimeconfig.json">
       <PackagePath>PAM_MAUI_App.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-01T00:31:37.602</Modified>
+      <Modified>2023-06-07T22:18:06.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.dll">
       <PackagePath>PAM_MAUI_App.dll</PackagePath>
-      <Modified>2023-06-01T00:31:36.150</Modified>
+      <Modified>2023-06-07T22:18:05.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PAM_MAUI_App.exe</PackagePath>
-      <Modified>2023-06-01T00:31:36.170</Modified>
+      <Modified>2023-06-07T22:18:05.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.2\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.deps.json">
       <PackagePath>PAM_MAUI_App.deps.json</PackagePath>
-      <Modified>2023-06-01T00:31:38.103</Modified>
+      <Modified>2023-06-07T22:18:07.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -968,207 +968,215 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-06-01T00:31:35.647</Modified>
+      <Modified>2023-06-07T22:18:04.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.858</Modified>
+      <Modified>2023-06-07T22:18:04.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.868</Modified>
+      <Modified>2023-06-07T22:18:04.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.878</Modified>
+      <Modified>2023-06-07T22:18:04.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.894</Modified>
+      <Modified>2023-06-07T22:18:04.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.954</Modified>
+      <Modified>2023-06-07T22:18:04.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.709</Modified>
+      <Modified>2023-06-07T22:18:04.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.711</Modified>
+      <Modified>2023-06-07T22:18:04.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.722</Modified>
+      <Modified>2023-06-07T22:18:04.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.713</Modified>
+      <Modified>2023-06-07T22:18:04.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.716</Modified>
+      <Modified>2023-06-07T22:18:04.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.693</Modified>
+      <Modified>2023-06-07T22:18:04.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.695</Modified>
+      <Modified>2023-06-07T22:18:04.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.706</Modified>
+      <Modified>2023-06-07T22:18:04.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.698</Modified>
+      <Modified>2023-06-07T22:18:04.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.700</Modified>
+      <Modified>2023-06-07T22:18:04.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.658</Modified>
+      <Modified>2023-06-07T22:18:04.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.661</Modified>
+      <Modified>2023-06-07T22:18:04.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.664</Modified>
+      <Modified>2023-06-07T22:18:04.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.668</Modified>
+      <Modified>2023-06-07T22:18:04.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.672</Modified>
+      <Modified>2023-06-07T22:18:04.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.675</Modified>
+      <Modified>2023-06-07T22:18:04.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.678</Modified>
+      <Modified>2023-06-07T22:18:04.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.690</Modified>
+      <Modified>2023-06-07T22:18:04.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.681</Modified>
+      <Modified>2023-06-07T22:18:04.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.683</Modified>
+      <Modified>2023-06-07T22:18:04.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.760</Modified>
+      <Modified>2023-06-07T22:18:04.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.764</Modified>
+      <Modified>2023-06-07T22:18:04.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.770</Modified>
+      <Modified>2023-06-07T22:18:04.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.777</Modified>
+      <Modified>2023-06-07T22:18:04.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.792</Modified>
+      <Modified>2023-06-07T22:18:04.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.740</Modified>
+      <Modified>2023-06-07T22:18:04.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.743</Modified>
+      <Modified>2023-06-07T22:18:04.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.746</Modified>
+      <Modified>2023-06-07T22:18:04.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.750</Modified>
+      <Modified>2023-06-07T22:18:04.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.756</Modified>
+      <Modified>2023-06-07T22:18:04.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.724</Modified>
+      <Modified>2023-06-07T22:18:04.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.727</Modified>
+      <Modified>2023-06-07T22:18:04.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.730</Modified>
+      <Modified>2023-06-07T22:18:04.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.733</Modified>
+      <Modified>2023-06-07T22:18:04.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.737</Modified>
+      <Modified>2023-06-07T22:18:04.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.796</Modified>
+      <Modified>2023-06-07T22:18:04.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.802</Modified>
+      <Modified>2023-06-07T22:18:04.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.810</Modified>
+      <Modified>2023-06-07T22:18:04.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.820</Modified>
+      <Modified>2023-06-07T22:18:04.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.850</Modified>
+      <Modified>2023-06-07T22:18:04.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.681</Modified>
+      <Modified>2023-06-07T22:18:04.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.691</Modified>
+      <Modified>2023-06-07T22:18:04.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.702</Modified>
+      <Modified>2023-06-07T22:18:04.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.718</Modified>
+      <Modified>2023-06-07T22:18:04.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-06-01T00:31:35.759</Modified>
+      <Modified>2023-06-07T22:18:04.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
+      <PackagePath>icon_about.scale-100.png</PackagePath>
+      <Modified>2023-06-01T01:19:26.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png">
+      <PackagePath>icon_notes.scale-100.png</PackagePath>
+      <Modified>2023-06-01T01:19:44.085</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

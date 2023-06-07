@@ -5,6 +5,7 @@
     <ActiveDebugFramework>net7.0-android</ActiveDebugFramework>
     <ActiveDebugProfile>Samsung SM-M127F (Android 13.0 - API 33)</ActiveDebugProfile>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
+    <DefaultDevice>Pixel_2_API_31</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
     <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
@@ -14,7 +15,13 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="AboutPage.xaml">
+    <MauiXaml Update="Views\AboutPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\AllNotesPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\NotePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

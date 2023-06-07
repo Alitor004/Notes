@@ -295,6 +295,8 @@ D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\w
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png
+D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.AssemblyInfoInputs.cache
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.AssemblyInfo.cs

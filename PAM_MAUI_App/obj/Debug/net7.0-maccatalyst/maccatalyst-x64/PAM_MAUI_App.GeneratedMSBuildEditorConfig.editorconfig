@@ -10,12 +10,6 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PAM_MAUI_App
 build_property.ProjectDir = D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\
 
-[D:/2DS/Alex/PMI/PAM_MAUI_App/PAM_MAUI_App/AboutPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.AboutPage.xaml
-build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
-build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
-
 [D:/2DS/Alex/PMI/PAM_MAUI_App/PAM_MAUI_App/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.App.xaml
@@ -45,3 +39,21 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/2DS/Alex/PMI/PAM_MAUI_App/PAM_MAUI_App/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[D:/2DS/Alex/PMI/PAM_MAUI_App/PAM_MAUI_App/Views/AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllNotesPage.xaml
+
+[D:/2DS/Alex/PMI/PAM_MAUI_App/PAM_MAUI_App/Views/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotePage.xaml
