@@ -2,9 +2,9 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PAM_MAUI_App.Views.AboutPage"
-             xmlns:models="clr-namespace:PAM_MAUI_App.Models">
+             xmlns:viewModels="clr-namespace:PAM_MAUI_App.ViewModels">
     <ContentPage.BindingContext>
-        <models:About />
+        <viewModels:AboutViewModel />
     </ContentPage.BindingContext>
     <VerticalStackLayout Spacing="10" Margin="10">
         
@@ -26,9 +26,9 @@
         </HorizontalStackLayout>
 
         <Label Text="{Binding Message}" />
-        
-        <Button Text="Aprenda mais..." Clicked="LearnMore_Clicked" />
-        
+
+        <Button Text="Learn more..." Command="{Binding ShowMoreInfoCommand}" />
+
     </VerticalStackLayout>
     
 </ContentPage>

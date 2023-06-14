@@ -963,6 +963,8 @@ D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\stamp\_Conver
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
+D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.ll
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\environment.arm64-v8a.ll
 D:\2DS\Alex\PMI\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
